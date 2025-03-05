@@ -1,0 +1,6 @@
+Name,rollnumber,department,sem
+Smarth,7239,BCA,5
+Arush,7001,BCA,5
+Shubham,7230,BCA,5
+Shivam,7219,Bca,5
+yash,7275,BCA,5
